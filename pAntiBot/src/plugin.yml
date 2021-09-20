@@ -1,0 +1,5 @@
+main: br.com.pepe.antibot.Main
+version: 1.0.0
+name: pAntiBot
+commands:
+   
